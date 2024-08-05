@@ -1,0 +1,85 @@
+{
+  "Name": "Talari Nandeesh",
+  "Contact Information": {
+    "Email": "nandeeshtalari33@gmail.com",
+    "Phone": "8374990106",
+    "Address": "Rayachoti, Andhra Pradesh 516269",
+    "LinkedIn": "linkedin.com/in/nandeesh-talari/",
+    "GitHub": "github.com/Nandeesh132/"
+  },
+  "Projects": [
+    {
+      "Title": "USA Adidas Sales Analysis Using Tableau",
+      "Description": "Created data analysis and visualization graphs and represented a dashboard for respective graphs drawn from 2020 to 2021 data of Adidas Sales in the USA. This project talks about in which zone more sales have been registered, which product produced more profit for retailers, which retailers have got more sales and profits, and in which month and dates respectively more sales and profit occurred.",
+      "Technologies Used": ["Tableau", "R"],
+      "Duration": "Aug’23-Nov’23"
+    },
+    {
+      "Title": "Classification Machine Learning Algorithms on Student Stress Dataset",
+      "Description": "Created a classification model on the Student Stress Level Dataset. This project helps to identify how the students are getting stressed and which stage it is.",
+      "Technologies Used": ["Rapid Miner", "R"],
+      "Duration": "Aug’23-Oct’23"
+    },
+    {
+      "Title": "Dashboard on Cases Registered in Police Stations in India",
+      "Description": "Created some graphs using the dataset. This project talks about which states have a greater number of robbery cases registered, which states have more percentage of robbed items, and which states have recovered cases so far.",
+      "Technologies Used": ["Tableau Prep", "Excel"],
+      "Duration": "Aug’22-Oct’22"
+    },
+    {
+      "Title": "Scientific Calculator Project",
+      "Description": "It is a scientific calculator application. It is used to calculate the math functions easily. In this application, a scientific calculator helped to learn how to use GUI tools.",
+      "Technologies Used": ["GUI Tools", "Python Programming"],
+      "Duration": "Sep’22-Dec’22"
+    }
+  ],
+  "Certificates": [
+    {
+      "Title": "R",
+      "Date": "Mar 2023",
+      "Description": "Introduction to R - Datacamp"
+    },
+    {
+      "Title": "Data Structures And Algorithms",
+      "Date": "Jun 2022",
+      "Description": "Complete Interview Preparation- Self-Paced (DSA) by GFG"
+    },
+    {
+      "Title": "Tableau",
+      "Date": "Mar 2021",
+      "Description": "Data Visualization-Tableau by LPU"
+    }
+  ],
+  "Achievements": [
+    "Published research paper in the IEEE IATMSI 2024 conference based on the research project “Classification and Evaluation of Indian Faces Using Machine Learning Models” 2024.",
+    "Research paper accepted in the INCRITO 2024 conference based on the research project “Addressing Food Waste: Survey of Approaches Technological Innovations and Sustainable Solutions” 2024."
+  ],
+  "Technical Skills": {
+    "Languages": ["Java", "R", "Python"],
+    "Technologies/Frameworks": ["Tableau", "Excel", "RapidMiner"],
+    "Skills": ["Data Structures and Algorithms", "Encryption and Decryption", "Leadership", "Problem-solving", "Attentive", "Sportive"]
+  },
+  "Education": [
+    {
+      "Degree": "Integrated B. Tech - M. Tech - Computer Science and Engineering",
+      "Institution": "Lovely Professional University",
+      "Location": "Punjab, India",
+      "CGPA": "7.90",
+      "Duration": "Since August 2020"
+    },
+    {
+      "Degree": "Intermediate",
+      "Institution": "Narayana Junior College",
+      "Location": "Vijayawada, Andhra Pradesh",
+      "CGPA": "9.34",
+      "Duration": "April 2018 - March 2020"
+    },
+    {
+      "Degree": "Matriculation",
+      "Institution": "Narayana School",
+      "Location": "Vijayawada, Andhra Pradesh",
+      "CGPA": "9.70",
+      "Duration": "April 2017 - March 2018"
+    }
+  ]
+}
